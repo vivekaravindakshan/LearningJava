@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01af6c28-080f-44cd-9816-99e0feff6cab" name="Default Changelist" comment="" />
+    <list default="true" id="01af6c28-080f-44cd-9816-99e0feff6cab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_31_1_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MTNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SampleThreads.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearningJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LearningJava.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LearningLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LearningLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LearningLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LearningLists.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +52,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -42,11 +60,25 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LearningLists">
+  <component name="RunManager" selected="Application.MTNew">
     <configuration name="LearningLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="LearningLists" />
+      <module name="LearningJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MT" />
+      <module name="LearningJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MTNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MTNew" />
       <module name="LearningJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -62,9 +94,13 @@
     <list>
       <item itemvalue="Application.StdIn" />
       <item itemvalue="Application.LearningLists" />
+      <item itemvalue="Application.MT" />
+      <item itemvalue="Application.MTNew" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MTNew" />
+        <item itemvalue="Application.MT" />
         <item itemvalue="Application.LearningLists" />
         <item itemvalue="Application.StdIn" />
       </list>
@@ -91,5 +127,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
